@@ -1,3 +1,3 @@
 #!/bin/bash
 ./scripts/build.sh
-node .
+node out/calculator.js
